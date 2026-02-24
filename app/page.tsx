@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Leaf, ArrowRight, ArrowLeft, MessageCircle } from "lucide-react";
 import { useState } from "react";
 
-const WHATSAPP_NUMBER = "8330031686"; // REPLACE WITH ACTUAL NUMBER
+const WHATSAPP_NUMBER = "+919645851927"; // REPLACE WITH ACTUAL NUMBER
 
 const products = [
   {
