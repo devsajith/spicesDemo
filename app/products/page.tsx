@@ -2,7 +2,7 @@
 import { useState } from "react";
 import Image from "next/image";
 
-const WHATSAPP_NUMBER = "9645851927"; // REPLACE WITH ACTUAL NUMBER
+const WHATSAPP_NUMBER = "+919645851927"; // REPLACE WITH ACTUAL NUMBER
 
 const products = [
     {
